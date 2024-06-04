@@ -1,0 +1,1 @@
+alert("a página já abre fofa")
