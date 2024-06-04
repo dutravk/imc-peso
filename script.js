@@ -1,1 +1,5 @@
-alert("a página já abre fofa")
+function calcular(){
+var fpeso = parseFloat(document.getElementById("peso"))
+var faltura = parseFloat(document.getElementById("altura"))
+var fIMC = fpeso /(faltura*faltura)
+}
